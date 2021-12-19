@@ -1,0 +1,10 @@
+.DS_Store
+.vscode
+PrusaSlicer.ini
+vendor
+sla_material
+sla_print
+shapes
+print
+physical_printer
+cache
